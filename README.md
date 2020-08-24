@@ -17,6 +17,8 @@
 </a>
 
 <br/>
+<br/>
+<br/>
 
 - 🔭 <span style="font-family:Papyrus; font-size:1em;">I’m currently in search of an idea to work on.</span>
 - 🌱 <span style="font-family:Papyrus; font-size:1em;">I’m currently learning Python</span>
