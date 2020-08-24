@@ -1,5 +1,5 @@
 
-### <span style="font-family:Papyrus; font-size:4em;"> Hi 👋, I'm Abhra</span>
+### <span style="font-family:fantasy; font-size:4em;"> Hi 👋, I'm Abhra</span>
 
 <br/>
 
@@ -20,8 +20,8 @@
 <br/>
 <br/>
 
-- 🔭 <span style="font-family:Papyrus; font-size:1em;">I’m currently in search of an idea to work on.</span>
-- 🌱 <span style="font-family:Papyrus; font-size:1em;">I’m currently learning Python</span>
+- 🔭 <span style="font-family:fantasy; font-size:1em;">I’m currently in search of an idea to work on.</span>
+- 🌱 <span style="font-family:fantasy; font-size:1em;">I’m currently learning Python</span>
 <!--- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
